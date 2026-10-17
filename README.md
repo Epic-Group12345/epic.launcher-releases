@@ -1,10 +1,10 @@
-# epic.launcher-releases
+# tugen.releases
 
 Релизы лаунчера TUGEN и обновления по воздуху. Файлы публикует CI репозитория лаунчера, руками их не правят.
 
 ## Что скачать
 
-Последний релиз — на странице [Releases](https://github.com/Epic-Group12345/epic.launcher-releases/releases/latest).
+Последний релиз — на странице [Releases](https://github.com/Epic-Group12345/tugen.releases/releases/latest).
 
 | Файл | Система | Как поставить |
 | --- | --- | --- |
